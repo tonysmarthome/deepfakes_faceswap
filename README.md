@@ -14,7 +14,7 @@ anonfile.com/f6wbmfd2b2/face-swap-code.zip or [click here to download](anonfile.
 
     Python 3
     Opencv 3
-    Tensorflow 1.3+(?)
+    Tensorflow 1.4
     Keras 2
 
 you also need a modern GPU with CUDA support for best performance
